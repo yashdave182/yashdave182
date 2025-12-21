@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a Third-year Computer Engineering student from
 
 - 💼 **Data Analyst Intern** at Parul Chemicals – Analyzing chemical industry datasets and creating data-driven insights
 - 🎯 Building **full-stack web applications** using **React, Next.js, and TypeScript**
-- 🤖 Deep dive into **AI/LLM API integrations** (Hugging Face, OpenAI, Google Cloud)
 - 💡 Experienced with **Python, TypeScript, SQL, NoSQL databases**
 - 🌟 Active in **hackathons** (Microsoft Hackathon 2025, EY Techathon 6.0, GirlScript Summer of Code)
 - 📚 Strong focus on **system design, algorithms, and clean code practices**
@@ -34,36 +33,18 @@ Welcome to my GitHub profile! I'm a Third-year Computer Engineering student from
 ## 🌟 Featured Projects
 
 ### FinAgent - AI-Powered Financial Analysis
-Intelligent financial advisor using AI/LLM integrations for stock analysis and portfolio management.
+Intelligent Loan Chatbot for BFSI (Tata Capital) Based on Agentic AI built using LangChain.
 
 ### CareFlow Nexus - Healthcare Platform
-Full-stack TypeScript application for patient records, consultations, and health analytics.
+Full-Stack TypeScript Application for Hospital Management Automation Using AI Agents .
 
 ### PC Sales Dashboard
-Real-time e-commerce analytics with data visualization and inventory management.
+Real-Time Full-Stack Sales Management System Using Machine Learning and AI.
 
 ### DocTweaker - Document Processing
-Python application for OCR and automated data extraction from PDFs.
+A Web-Based Platform for Intelligent Document Tweaking Using OCR and Large Language Models (LLMs).
 
-### BunkStop - Hostel Management
-Full-stack booking, attendance, and facility management system.
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashdave182&show_icons=true&theme=dark)
-
----
-
-## 🏆 Achievements
-
-- 🎖️ GirlScript Summer of Code 2024 (Extended)
-- 🎖️ Hacktoberfest 2024 Contributor
-- 💻 Microsoft Hackathon 2025 Participant
-- 🏅 EY Techathon 6.0 Finalist
-- 🌐 Google Cloud Skill Badges
-- 📊 SAP Code Unnati Program
 
 ---
 
@@ -81,17 +62,7 @@ Full-stack booking, attendance, and facility management system.
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yashdave182)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-dave182/)
 - 🐙 [GitHub](https://github.com/yashdave182)
 - 📧 yashdave182@example.com
 
----
-
-## 📝 Fun Facts
-
-- 🎮 Call of Duty Mobile enthusiast
-- 🌙 Most productive at night
-- 🏋️ Regular gym trainer
-- 💬 Always open to discussions!
-
-*Last updated: December 2025*
