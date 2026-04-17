@@ -64,5 +64,5 @@ A Web-Based Platform for Intelligent Document Tweaking Using OCR and Large Langu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-dave182/)
 - 🐙 [GitHub](https://github.com/yashdave182)
-- 📧 yashdave182@example.com
+- 📧 yashdave182@gmail.com
 
